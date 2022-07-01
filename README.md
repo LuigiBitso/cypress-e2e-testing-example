@@ -1,1 +1,1 @@
-# cypress-e2e-testing-example
+# cypress E2E Testing
