@@ -1,0 +1,23 @@
+{
+  "name": "cypress-e2e-testing-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuigiBitso/cypress-e2e-testing-example.git"
+  },
+  "author": "Luigi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuigiBitso/cypress-e2e-testing-example/issues"
+  },
+  "homepage": "https://github.com/LuigiBitso/cypress-e2e-testing-example#readme",
+  "devDependencies": {
+    "cypress": "^9.5.0",
+    "cypress-mailosaur": "^2.6.0"
+  }
+}
