@@ -1,0 +1,16 @@
+{
+  "baseUrl": "https://stage.bitso.com",
+  "retries": 3,
+  "integrationFolder": "cypress/e2e",
+  "videoUploadOnPasses": false,
+  "watchForFileChanges": false,
+  "viewportHeight": 1080,
+  "viewportWidth": 1920,
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 10000,
+  "scrollBehavior": "center",
+  "env": {
+    "USER_EMAIL": "",
+    "USER_PASSWORD": ""
+  }
+}
